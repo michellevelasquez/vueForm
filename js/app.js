@@ -6,9 +6,9 @@ var app = new Vue({
     el:'#app',
     data:{
         message:"Hello Vue",
-        newName:"Name",
-        newLastName:"Lastname",
-        newAge:"18",
+        newName:"",
+        newLastName:"",
+        newAge:"",
         users:[
             {
                 nombre:"John",
